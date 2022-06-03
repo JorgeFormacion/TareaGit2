@@ -25,6 +25,7 @@ _Curso de formación_ - **T-System**
 |11. Git Log| Ver los cambios realizados al repositorio y quien los ha hecho |
 |12. Git clone| Se utiliza para copiar un repositorio que se encuentra en remoto |
 
+*Esto es un añadido para comprobar los cambios.*
 
 Espero que les haya servido, un saludo.
 .
